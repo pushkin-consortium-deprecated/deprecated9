@@ -1,6 +1,6 @@
 ![Pushkin Logo](http://i.imgur.com/ncRJMJ5.png)
 
-# Experiment Workers
+# Experiment Seeds
 
 # Overview
 * holds the seeds for experiments
